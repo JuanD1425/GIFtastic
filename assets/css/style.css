@@ -1,0 +1,47 @@
+.container.d-flex, .thumbnail, img {
+  display: none;
+}
+
+#whole {
+  margin: 5;
+  padding: 10px 15px;
+}
+
+#userInput {
+  width: 235px;
+}
+
+#buttonSubmit {
+  padding: 2px;
+  height: 25px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #F6F740;
+}
+
+button:active {
+  background-color: #0B032D;
+  color: #FFFFFF;
+}
+
+button {
+  background-color: #30BCED;
+  color: #000000;
+}
+
+h1 {
+  background-color: #010001;
+  color: #30BCED;
+}
+
+.thumbnail {
+  margin: 10px;
+  width: 200;
+  height: 200;
+}
+
